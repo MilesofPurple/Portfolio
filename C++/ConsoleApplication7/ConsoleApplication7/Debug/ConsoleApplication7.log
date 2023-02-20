@@ -1,0 +1,3 @@
+﻿  AMHW51.cpp
+d:\users\milesofpurple\source\repos\consoleapplication7\consoleapplication7\amhw51.cpp(13): warning C4552: '-': result of expression not used
+d:\users\milesofpurple\source\repos\consoleapplication7\consoleapplication7\amhw51.cpp(13): error C4700: uninitialized local variable 'i' used
