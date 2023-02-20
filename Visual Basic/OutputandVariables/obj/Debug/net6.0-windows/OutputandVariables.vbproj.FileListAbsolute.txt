@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\OutputandVariables\bin\Debug\net6.0-windows\OutputandVariables.exe
+C:\Users\MilesofPurple\source\repos\OutputandVariables\bin\Debug\net6.0-windows\OutputandVariables.deps.json
+C:\Users\MilesofPurple\source\repos\OutputandVariables\bin\Debug\net6.0-windows\OutputandVariables.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\OutputandVariables\bin\Debug\net6.0-windows\OutputandVariables.dll
+C:\Users\MilesofPurple\source\repos\OutputandVariables\bin\Debug\net6.0-windows\OutputandVariables.pdb
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.Form1.resources
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.dll
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\refint\OutputandVariables.dll
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.pdb
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\OutputandVariables.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\OutputandVariables\obj\Debug\net6.0-windows\ref\OutputandVariables.dll

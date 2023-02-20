@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\CollectUserInput\bin\Debug\net6.0-windows\CollectUserInput.exe
+C:\Users\MilesofPurple\source\repos\CollectUserInput\bin\Debug\net6.0-windows\CollectUserInput.deps.json
+C:\Users\MilesofPurple\source\repos\CollectUserInput\bin\Debug\net6.0-windows\CollectUserInput.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\CollectUserInput\bin\Debug\net6.0-windows\CollectUserInput.dll
+C:\Users\MilesofPurple\source\repos\CollectUserInput\bin\Debug\net6.0-windows\CollectUserInput.pdb
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.Form1.resources
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.dll
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\refint\CollectUserInput.dll
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.pdb
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\CollectUserInput.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\CollectUserInput\obj\Debug\net6.0-windows\ref\CollectUserInput.dll
