@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c107c19d96b8f54e9893694f349507c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerupIndicator: {fileID: 2134855286203369578, guid: 6b100cdfdb4fd2645966859f20464489, type: 3}
+  - attackPrefab: {fileID: 5818056461394182095, guid: 7735d8b661c9e3946a4d1f8b560592ff, type: 3}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
