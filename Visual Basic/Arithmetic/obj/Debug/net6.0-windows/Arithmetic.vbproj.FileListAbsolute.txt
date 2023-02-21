@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\Arithmetic\bin\Debug\net6.0-windows\Arithmetic.exe
+C:\Users\MilesofPurple\source\repos\Arithmetic\bin\Debug\net6.0-windows\Arithmetic.deps.json
+C:\Users\MilesofPurple\source\repos\Arithmetic\bin\Debug\net6.0-windows\Arithmetic.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\Arithmetic\bin\Debug\net6.0-windows\Arithmetic.dll
+C:\Users\MilesofPurple\source\repos\Arithmetic\bin\Debug\net6.0-windows\Arithmetic.pdb
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.Form1.resources
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.dll
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\refint\Arithmetic.dll
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.pdb
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\Arithmetic.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\Arithmetic\obj\Debug\net6.0-windows\ref\Arithmetic.dll
