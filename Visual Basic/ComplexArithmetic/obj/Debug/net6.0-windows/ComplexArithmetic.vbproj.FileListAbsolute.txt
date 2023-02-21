@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\bin\Debug\net6.0-windows\ComplexArithmetic.exe
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\bin\Debug\net6.0-windows\ComplexArithmetic.deps.json
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\bin\Debug\net6.0-windows\ComplexArithmetic.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\bin\Debug\net6.0-windows\ComplexArithmetic.dll
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\bin\Debug\net6.0-windows\ComplexArithmetic.pdb
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.Form1.resources
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.dll
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\refint\ComplexArithmetic.dll
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.pdb
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ComplexArithmetic.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\ComplexArithmetic\obj\Debug\net6.0-windows\ref\ComplexArithmetic.dll

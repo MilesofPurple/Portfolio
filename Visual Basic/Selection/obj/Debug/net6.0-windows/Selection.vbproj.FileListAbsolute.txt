@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\Selection\bin\Debug\net6.0-windows\Selection.exe
+C:\Users\MilesofPurple\source\repos\Selection\bin\Debug\net6.0-windows\Selection.deps.json
+C:\Users\MilesofPurple\source\repos\Selection\bin\Debug\net6.0-windows\Selection.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\Selection\bin\Debug\net6.0-windows\Selection.dll
+C:\Users\MilesofPurple\source\repos\Selection\bin\Debug\net6.0-windows\Selection.pdb
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.Form1.resources
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.dll
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\refint\Selection.dll
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.pdb
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\Selection.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\Selection\obj\Debug\net6.0-windows\ref\Selection.dll
