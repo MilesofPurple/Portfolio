@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\bin\Debug\net6.0-windows\DoLoopValidation.exe
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\bin\Debug\net6.0-windows\DoLoopValidation.deps.json
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\bin\Debug\net6.0-windows\DoLoopValidation.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\bin\Debug\net6.0-windows\DoLoopValidation.dll
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\bin\Debug\net6.0-windows\DoLoopValidation.pdb
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.Form1.resources
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.dll
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\refint\DoLoopValidation.dll
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.pdb
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\DoLoopValidation.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\DoLoopValidation\obj\Debug\net6.0-windows\ref\DoLoopValidation.dll
