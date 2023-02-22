@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\CountUp\bin\Debug\net6.0-windows\CountUp.exe
+C:\Users\MilesofPurple\source\repos\CountUp\bin\Debug\net6.0-windows\CountUp.deps.json
+C:\Users\MilesofPurple\source\repos\CountUp\bin\Debug\net6.0-windows\CountUp.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\CountUp\bin\Debug\net6.0-windows\CountUp.dll
+C:\Users\MilesofPurple\source\repos\CountUp\bin\Debug\net6.0-windows\CountUp.pdb
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.Form1.resources
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.dll
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\refint\CountUp.dll
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.pdb
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\CountUp.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\CountUp\obj\Debug\net6.0-windows\ref\CountUp.dll

@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\ForNext\bin\Debug\net6.0-windows\ForNext.exe
+C:\Users\MilesofPurple\source\repos\ForNext\bin\Debug\net6.0-windows\ForNext.deps.json
+C:\Users\MilesofPurple\source\repos\ForNext\bin\Debug\net6.0-windows\ForNext.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\ForNext\bin\Debug\net6.0-windows\ForNext.dll
+C:\Users\MilesofPurple\source\repos\ForNext\bin\Debug\net6.0-windows\ForNext.pdb
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.Form1.resources
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.dll
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\refint\ForNext.dll
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.pdb
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ForNext.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\ForNext\obj\Debug\net6.0-windows\ref\ForNext.dll
