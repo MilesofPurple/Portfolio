@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\bin\Debug\net6.0-windows\ArrayVariablesPractice.exe
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\bin\Debug\net6.0-windows\ArrayVariablesPractice.deps.json
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\bin\Debug\net6.0-windows\ArrayVariablesPractice.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\bin\Debug\net6.0-windows\ArrayVariablesPractice.dll
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\bin\Debug\net6.0-windows\ArrayVariablesPractice.pdb
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.Form1.resources
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.dll
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\refint\ArrayVariablesPractice.dll
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.pdb
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ArrayVariablesPractice.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\ArrayVariablesPractice\obj\Debug\net6.0-windows\ref\ArrayVariablesPractice.dll
