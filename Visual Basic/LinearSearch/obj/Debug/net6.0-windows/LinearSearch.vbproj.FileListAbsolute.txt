@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\LinearSearch\bin\Debug\net6.0-windows\LinearSearch.exe
+C:\Users\MilesofPurple\source\repos\LinearSearch\bin\Debug\net6.0-windows\LinearSearch.deps.json
+C:\Users\MilesofPurple\source\repos\LinearSearch\bin\Debug\net6.0-windows\LinearSearch.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\LinearSearch\bin\Debug\net6.0-windows\LinearSearch.dll
+C:\Users\MilesofPurple\source\repos\LinearSearch\bin\Debug\net6.0-windows\LinearSearch.pdb
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.Form1.resources
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.dll
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\refint\LinearSearch.dll
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.pdb
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\LinearSearch.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\LinearSearch\obj\Debug\net6.0-windows\ref\LinearSearch.dll

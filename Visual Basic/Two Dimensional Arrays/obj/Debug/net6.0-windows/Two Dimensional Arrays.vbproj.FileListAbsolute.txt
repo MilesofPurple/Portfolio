@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\bin\Debug\net6.0-windows\Two Dimensional Arrays.exe
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\bin\Debug\net6.0-windows\Two Dimensional Arrays.deps.json
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\bin\Debug\net6.0-windows\Two Dimensional Arrays.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\bin\Debug\net6.0-windows\Two Dimensional Arrays.dll
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\bin\Debug\net6.0-windows\Two Dimensional Arrays.pdb
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two_Dimensional_Arrays.Form1.resources
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.dll
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\refint\Two Dimensional Arrays.dll
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.pdb
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\Two Dimensional Arrays.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\Two Dimensional Arrays\obj\Debug\net6.0-windows\ref\Two Dimensional Arrays.dll
