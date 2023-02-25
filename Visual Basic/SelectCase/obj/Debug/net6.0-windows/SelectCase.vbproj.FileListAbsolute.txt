@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\SelectCase\bin\Debug\net6.0-windows\SelectCase.exe
+C:\Users\MilesofPurple\source\repos\SelectCase\bin\Debug\net6.0-windows\SelectCase.deps.json
+C:\Users\MilesofPurple\source\repos\SelectCase\bin\Debug\net6.0-windows\SelectCase.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\SelectCase\bin\Debug\net6.0-windows\SelectCase.dll
+C:\Users\MilesofPurple\source\repos\SelectCase\bin\Debug\net6.0-windows\SelectCase.pdb
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.Form1.resources
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.dll
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\refint\SelectCase.dll
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.pdb
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\SelectCase.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\SelectCase\obj\Debug\net6.0-windows\ref\SelectCase.dll
