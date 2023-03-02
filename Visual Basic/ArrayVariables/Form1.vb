@@ -1,20 +1,24 @@
 ﻿Public Class Form1
     Private Sub btnStart_Click(sender As Object, e As EventArgs) Handles btnStart.Click
-
+        
+        'Declare variables
         Dim stFruit As String
-
+        Dim stFruit2 As String
+        
+        'Assign a fruit to variable
         stFruit = "Banana"
 
         MsgBox(stFruit)
-
+        
+        'Change fruits
         stFruit = "Orange"
 
-        Dim stFruit2 As String
-
         stFruit2 = "Pineapple"
-
+        
+        'Override fruit2 with fruit
         stFruit2 = stFruit
-
+        
+        'Display overriden fruit
         MsgBox(stFruit2)
 
     End Sub
