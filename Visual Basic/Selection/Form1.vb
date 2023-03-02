@@ -1,8 +1,11 @@
 ﻿Public Class Form1
     Private Sub btnGreet_Click(sender As Object, e As EventArgs) Handles btnGreet.Click
+        
+        'Declare variables
         Dim stCountry As String
         stCountry = txtCountry.Text
 
+        'Search user input for specific countries and display custom messages. 
         If stCountry.ToUpper = "AUSTRAILIA" Then
             MsgBox("G'day mate!")
             MsgBox("Good on ya!")
