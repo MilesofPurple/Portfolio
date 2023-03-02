@@ -43,6 +43,7 @@
 
         Dim y As Integer
 
+        'Display nationalities in separate, consecutive message boxes.
         For y = 0 To 5
             MsgBox(astPeople(3, y))
         Next
@@ -91,6 +92,7 @@
         astPeople(3, 5) = "Dutch"
         astPeople(4, 5) = "Artist"
 
+        'Display details for each person in separate message boxes.
         For i = 0 To 5
             MsgBox(astPeople(0, i) & " " & astPeople(1, i) & " " & astPeople(2, i) & " " & astPeople(3, i) & " " & astPeople(4, i))
         Next
@@ -142,6 +144,7 @@
         Dim x As Integer
         Dim y As Integer
 
+        'Display message for every value in both arrays.
         For x = 0 To 4
             For y = 0 To 5
                 MsgBox(astPeople(x, y))
@@ -202,7 +205,8 @@
         Dim x As Integer
         Dim y As Integer
         Dim stOut As String
-
+ 
+        'Add values to string variable and display message by person
         For y = 0 To 5
             For x = 0 To 4
                 stOut = stOut & astPeople(x, y) & " "
@@ -277,7 +281,7 @@
 
         stTarget = InputBox("Enter the surname of the person you want to find.")
 
-
+        Search array for input match
         For y = 0 To 5
             If astPeople(1, y).ToUpper = stTarget.ToUpper Then
                 bFound = True
@@ -285,6 +289,7 @@
             End If
         Next
 
+        'Display person details if found or not found
         If bFound = True Then
             For x = 0 To 4
                 stOut = stOut & astPeople(x, y) & " "
