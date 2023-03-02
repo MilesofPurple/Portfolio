@@ -8,7 +8,8 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Display all values in array in their own message box
         For i = 0 To 4
             MsgBox(aiData(i))
         Next
@@ -26,7 +27,8 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Display all values in array in the same box horizontally
         MsgBox(aiData(0) & vbNewLine & aiData(1) & vbNewLine & aiData(2) & vbNewLine & aiData(3) & vbNewLine & aiData(4))
 
 
@@ -43,11 +45,13 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Add all values in array
         For i = 0 To 4
             iSum = iSum + aiData(i)
         Next
-
+        
+        'Display sum of array
         MsgBox(iSum)
 
 
@@ -66,14 +70,17 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Add all values in array and count how many values
         For i = 0 To 4
             iSum = iSum + aiData(i)
             iCount = iCount + 1
         Next
-
+        
+        'Cacluate average of values in array
         iAverage = iSum / iCount
-
+        
+        'Display average
         MsgBox(iAverage)
 
     End Sub
@@ -88,13 +95,15 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Add all values in array higher than 20
         For i = 0 To 4
             If aiData(i) > 20 Then
                 iSum = iSum + aiData(i)
             End If
         Next
-
+        
+        'Display sum
         MsgBox(iSum)
 
     End Sub
@@ -109,13 +118,15 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Search array for the highest number
         For i = 0 To 4
             If aiData(i) > iHighest Then
                 iHighest = aiData(i)
             End If
         Next
 
+        'Display highest number
         MsgBox(iHighest)
 
     End Sub
@@ -162,7 +173,8 @@
         aiData(2) = 33
         aiData(3) = 22
         aiData(4) = 8
-
+        
+        'Multiply every number in array by two and display each new value
         MsgBox((aiData(0) * 2) & " " & (aiData(1) * 2) & " " & (aiData(2) * 2) & " " & (aiData(3) * 2) & " " & (aiData(4) * 2))
 
     End Sub
