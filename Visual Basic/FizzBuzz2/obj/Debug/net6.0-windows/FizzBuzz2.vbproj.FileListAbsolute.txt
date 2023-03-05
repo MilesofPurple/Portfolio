@@ -1,0 +1,17 @@
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\bin\Debug\net6.0-windows\FizzBuzz2.exe
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\bin\Debug\net6.0-windows\FizzBuzz2.deps.json
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\bin\Debug\net6.0-windows\FizzBuzz2.runtimeconfig.json
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\bin\Debug\net6.0-windows\FizzBuzz2.dll
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\bin\Debug\net6.0-windows\FizzBuzz2.pdb
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.vbproj.AssemblyReference.cache
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.Form1.resources
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.vbproj.GenerateResource.cache
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.AssemblyInfoInputs.cache
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.AssemblyInfo.vb
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.vbproj.CoreCompileInputs.cache
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.dll
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\refint\FizzBuzz2.dll
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.pdb
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\FizzBuzz2.genruntimeconfig.cache
+C:\Users\MilesofPurple\source\repos\FizzBuzz2\obj\Debug\net6.0-windows\ref\FizzBuzz2.dll
